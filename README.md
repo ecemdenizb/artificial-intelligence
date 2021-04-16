@@ -1,3 +1,3 @@
 # artificial-intelligence
-AILabs internship colab documentations containing machine learning fundamentals.
+AILabs internship colab documentations containing artificial intelligence fundamentals.
 
